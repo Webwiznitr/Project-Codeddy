@@ -1,6 +1,6 @@
 # Project-Codeddy
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Contributors ✨
 
@@ -12,6 +12,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/deb2000-sudo"><img src="https://avatars.githubusercontent.com/u/59384249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>deb2000-sudo</b></sub></a><br /><a href="#infra-deb2000-sudo" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-deb2000-sudo" title="Maintenance">🚧</a> <a href="#projectManagement-deb2000-sudo" title="Project Management">📆</a> <a href="https://github.com/Webwiznitr/Project-Codeddy/commits?author=deb2000-sudo" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/snehaM2210"><img src="https://avatars.githubusercontent.com/u/68493940?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SNEHA MALLIK</b></sub></a><br /><a href="#infra-snehaM2210" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-snehaM2210" title="Maintenance">🚧</a> <a href="#projectManagement-snehaM2210" title="Project Management">📆</a> <a href="https://github.com/Webwiznitr/Project-Codeddy/commits?author=snehaM2210" title="Code">💻</a></td>
   </tr>
 </table>
 
