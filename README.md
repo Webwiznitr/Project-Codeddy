@@ -1,4 +1,4 @@
-# Project-Codeddy
+# Project-Quartile
 
 Project based on Code Editor 
 
