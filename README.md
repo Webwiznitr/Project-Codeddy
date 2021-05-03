@@ -46,7 +46,8 @@ Please refer to the project's style and contribution guidelines for submitting p
  5. Submit a **Pull request** so that we can review your changes
 
  NOTE 1: Please abide by the [Contributing Guidelines](https://github.com/Webwiznitr/Project-Quartile/blob/main/CONTRIBUTING.md).
- NOTE 2: Please abide by the [Code of Conduct](https://github.com/Webwiznitr/Project-amber/blob/master/CODE_OF_CONDUCT.md).
+ 
+ NOTE 2: Please abide by the [Code of Conduct](https://github.com/Webwiznitr/Project-Quartile/blob/main/CODE_OF_CONDUCT.md).
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
