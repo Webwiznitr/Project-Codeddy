@@ -61,7 +61,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/deb2000-sudo"><img src="https://avatars.githubusercontent.com/u/59384249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>deb2000-sudo</b></sub></a><br /><a href="#infra-deb2000-sudo" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-deb2000-sudo" title="Maintenance">🚧</a> <a href="#projectManagement-deb2000-sudo" title="Project Management">📆</a> <a href="https://github.com/Webwiznitr/Project-Quartile/commits?author=deb2000-sudo" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/snehaM2210"><img src="https://avatars.githubusercontent.com/u/68493940?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SNEHA MALLIK</b></sub></a><br /><a href="#infra-snehaM2210" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-snehaM2210" title="Maintenance">🚧</a> <a href="#projectManagement-snehaM2210" title="Project Management">📆</a> <a href="https://github.com/Webwiznitr/Project-Quartile/commits?author=snehaM2210" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/gouravmohanty7070"><img src="https://avatars.githubusercontent.com/u/77116228?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gourav Mohanty</b></sub></a><br /><a href="https://github.com/Webwiznitr/Project-Quartile/commits?author=gouravmohanty7070" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/komal1503"><img src="https://avatars.githubusercontent.com/u/76110970?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Komal</b></sub></a><br /><a href="https://github.com/Webwiznitr/Project-Quartile/commits?author=komal1503" title="Code">💻</a></td>
+
   </tr>
 </table>
 
