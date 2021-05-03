@@ -45,7 +45,7 @@ Please refer to the project's style and contribution guidelines for submitting p
  4. **Push** your work back up to your fork
  5. Submit a **Pull request** so that we can review your changes
 
- NOTE 1: Please abide by the [Contributing Guidelines](https://github.com/Webwiznitr/PROJECT-QUARTILE/CONTRIBUTING.md).
+ NOTE 1: Please abide by the [Contributing Guidelines](https://github.com/Webwiznitr/Project-Quartile/blob/main/CONTRIBUTING.md).
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
