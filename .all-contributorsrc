@@ -28,10 +28,19 @@
         "projectManagement",
         "code"
       ]
+    },
+    {
+      "login": "gouravmohanty7070",
+      "name": "Gourav Mohanty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77116228?v=4",
+      "profile": "https://github.com/gouravmohanty7070",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "Project-Codeddy",
+  "projectName": "Project-Quartile",
   "projectOwner": "Webwiznitr",
   "repoType": "github",
   "repoHost": "https://github.com",
